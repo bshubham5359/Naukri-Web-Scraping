@@ -15,10 +15,26 @@ Use the package manager [pip](https://pypi.org/project/selenium/) to install sel
 pip install selenium
 ```
 
-## ChromeDriver
+## WordCloud
 
-WebDriver is an open source tool for automated testing of webapps across many browsers.
-It provides capabilities for navigating to web pages, user input, JavaScript execution, and more.
+A little word cloud generator
 
-To [Download](https://chromedriver.chromium.org/) ChromeDriver.
+```bash
+pip install wordcloud
+```
 
+## BeautifulSoup
+
+Beautiful Soup is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree.
+
+```bash
+pip install beautifulsoup4
+```
+
+## Webdriver Manager
+
+Library provides the way to automatically manage drivers for different browsers.
+
+```bash
+pip install webdriver-manager
+```
